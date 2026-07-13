@@ -275,11 +275,21 @@ Open the `.pbix` file using **Power BI Desktop**.
 
 ## Krishna Baranwal
 
-**Data Analytics | SQL | Python | Power BI**
+**Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization**
 
-**GitHub:** https://github.com/yourusername
+🎓 B.Tech – Computer Science & Engineering (Data Science)
 
-**LinkedIn:** https://linkedin.com/in/yourprofile
+🔗 **GitHub:** https://github.com/Kbaranwal
+
+💼 **LinkedIn:** https://linkedin.com/in/krishna-baranwal-06674a327
+
+---
+
+## 🤝 Connect With Me
+
+If you have suggestions, feedback, or would like to collaborate on data analytics projects, feel free to connect with me on GitHub or LinkedIn.
+
+If you found this project helpful, please consider giving the repository a **⭐ Star**. Your support is greatly appreciated!
 
 ---
 
